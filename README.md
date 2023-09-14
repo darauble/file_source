@@ -15,5 +15,5 @@ So buttons and time is the minimum I need for myself to work with long IQ files.
 
 !["File Source with rewind/forward and elapsed/total time"](screenshots/rewind-forward-time.png?raw=true)
 
-["There's a discussion over file playing functionality on SDRPlusPlus board"](https://github.com/AlexandreRouma/SDRPlusPlus/issues/129).
+[There's a discussion over file playing functionality on SDRPlusPlus board](https://github.com/AlexandreRouma/SDRPlusPlus/issues/129).
 Hopefully, it will be implemented in a better way some time later.
